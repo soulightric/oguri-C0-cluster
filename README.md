@@ -1,8 +1,5 @@
-Berikut adalah **file README.md** yang sudah saya perbaiki dan saya buat lebih rapi, profesional, serta lengkap sesuai dengan kode program yang telah saya berikan sebelumnya.
 
-### 📄 **README.md**
-
-```markdown
+```
 # Proxmox Configuration Manager (C++)
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-VE-FF6600?style=for-the-badge&logo=proxmox)
@@ -11,7 +8,7 @@ Berikut adalah **file README.md** yang sudah saya perbaiki dan saya buat lebih r
 
 Client API **Proxmox VE** yang ditulis dalam bahasa **C++17** untuk mengelola konfigurasi Proxmox secara programmatic (membuat, membaca, dan mengubah VM, serta resource lainnya).
 
----
+```
 
 ## ✨ Fitur
 
