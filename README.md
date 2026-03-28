@@ -164,9 +164,6 @@ Jika kamu ingin versi yang lebih advanced (dengan CLI, API Token support, config
 ---
 
 **Terima kasih telah menggunakan Proxmox Configuration Manager!**
-```
-
----
 
 ### Cara Menggunakan File Ini:
 
