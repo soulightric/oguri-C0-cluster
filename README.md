@@ -6,8 +6,6 @@
 
 Client API **Proxmox VE** yang ditulis dalam bahasa **C++17** untuk mengelola konfigurasi Proxmox secara programmatic (membuat, membaca, dan mengubah VM, serta resource lainnya).
 
-```
-
 ## ✨ Fitur
 
 - Autentikasi ke Proxmox REST API
@@ -19,8 +17,6 @@ Client API **Proxmox VE** yang ditulis dalam bahasa **C++17** untuk mengelola ko
   - **nlohmann/json** untuk parsing JSON
 - Mudah dikembangkan dan ditambahkan fitur baru
 - Support self-signed certificate (default Proxmox)
-
----
 
 ## 📋 Persyaratan
 
