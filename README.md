@@ -1,5 +1,3 @@
-
-```
 # Proxmox Configuration Manager (C++)
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-VE-FF6600?style=for-the-badge&logo=proxmox)
